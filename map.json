@@ -540,9 +540,29 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"www.studioweb3.xyz"
+                }, 
+                {
+                 "name":"openWebsiteClosable",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Bonjour,  je suis Lino.  Je suis l\u00e0 pour vous aider ! Cliquez sur ESPACE !"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"string",
+                 "value":"35"
                 }],
          "type":"tilelayer",
          "visible":true,
