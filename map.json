@@ -531,7 +531,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/instagram.com\/itshakparsy"
+                 "value":"https:\/\/instagram.com\/itshakparsy\/"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -594,7 +594,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtube.com\/channel\/UChQOcWHIVMiEJ717qOAm2Ag"
+                 "value":"https:\/\/youtube.com\/channel\/UChQOcWHIVMiEJ717qOAm2Ag\/"
                 }, 
                 {
                  "name":"openWebsiteClosable",
