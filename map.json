@@ -531,7 +531,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/instagram.com\/itshakparsy\/"
+                 "value":"https:\/\/www.instagram.com\/itshakparsy\/"
                 }],
          "type":"tilelayer",
          "visible":true,
