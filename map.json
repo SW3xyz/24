@@ -37,15 +37,15 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"http:\/\/instagram.com\/itshakparsy\/http:\/\/instagram.com\/itshakparsy\/"
+                 "value":"http:\/\/instagram.com\/itshakparsy\/"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openTabTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Test message"
                 }],
