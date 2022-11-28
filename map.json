@@ -38,6 +38,16 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"http:\/\/instagram.com\/itshakparsy\/http:\/\/instagram.com\/itshakparsy\/"
+                }, 
+                {
+                 "name":"openTabTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openTabTriggerMessage",
+                 "type":"string",
+                 "value":"Test message"
                 }],
          "type":"tilelayer",
          "visible":true,
