@@ -78,17 +78,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/forms.gle\/xRQeju34HLkqh96A7\/"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsiteTrigger-",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"openWebsiteTriggerMessage-",
                  "type":"string",
                  "value":"Partage-nous tes id\u00e9es dans la boite \u00e0 id\u00e9e :)"
                 }],
